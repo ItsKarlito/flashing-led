@@ -2,6 +2,8 @@
 Making PCB (printed circuit board) of a very popular electrical circuit that flashes an LED using a 555 timer IC.
 
 **Circuit Schematic and PCB:**
+![](images/pcb_manufactured.png)
+
 ![](images/3D.png)
 
 ![](images/schematic.png)
