@@ -1,0 +1,8 @@
+Digikey,Reference, Quantity, Value,Description, Footprint
+493-2129-2-ND,C1 ,1,1uF,Capacitor,Capacitor_SMD:CP_Elec_3x5.3
+VAOL-S8SB4TR-ND,D1 ,1,LED,LED,LED_SMD:LED_0805_2012Metric
+WM17141TR-ND,J1 ,1,USB_B_Micro,Female USB Micro B Connector,Connector_USB:USB_Micro-B_Molex_47346-0001
+311-100KCRTR-ND,R1 ,1,100k,Resistor,Resistor_SMD:R_0805_2012Metric
+311-470KCRTR-ND,R2 ,1,470k,Resistor,Resistor_SMD:R_0805_2012Metric
+311-270KCRTR-ND,R3 ,1,270k,Resistor,Resistor_SMD:R_0805_2012Metric
+296-16792-ND,U1 ,1,NE555D,IC,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm
