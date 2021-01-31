@@ -15,4 +15,4 @@ Making PCB (printed circuit board) of a very popular electrical circuit that fla
 ![](media/pcb.png)
 
 **CAD Software:** 
-[KiCAD](https://kicad-pcb.org/download/)
+[KiCAD](https://kicad-pcb.org/)
